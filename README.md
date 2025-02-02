@@ -1,6 +1,6 @@
 # HyperPong 🏓
 
-![HyperPong Screenshot](https://cloud-8la8cdd6s-hack-club-bot.vercel.app/0img_5174.png)
+![HyperPong Screenshot](https://cloud-26bwaj9zs-hack-club-bot.vercel.app/0img_0098.jpg)
 
 A high-energy, single-player twist on the classic Pong game featuring 4 paddles and accelerating gameplay!
 
@@ -38,7 +38,7 @@ HyperPong is an exciting arcade-style game built with Svelte where players contr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hyperpong.git
+git clone https://github.com/MaxDevv/hyperPong.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -60,7 +60,7 @@ npm run dev
 
 ## Demo
 
-[Play HyperPong](https://your-url.com)
+[Play HyperPong](https://hyper-pong.vercel.app/)
 
 ## Contributing
 
